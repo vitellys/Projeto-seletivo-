@@ -32,7 +32,11 @@ A resposta está disponível no FILE: fibonacci.py
 
 REPRESENTADO NO PRÓPRIO TERMINAL DO VSCODE: 
 
-**PARA INICIAR O TERMINAL, DIGITE 'python fibonacci.py'**
+**PARA INICIAR O TERMINAL, DIGITE:**
+
+```bash
+python fibonacci.py
+```
 
 ```bash
 Digite o número que deseja para verificar se pertence à sequência fibonacci:
@@ -52,7 +56,11 @@ A resposta está disponível no FILE: faturamento.py
 
 REPRESENTADO NO PRÓPRIO TERMINAL DO VSCODE:
 
-**PARA INICIAR O TERMINAL, DIGITE 'python faturamento.py'**
+**PARA INICIAR O TERMINAL, DIGITE:**
+
+```bash
+python faturamento.py
+```
 
 ```bash
 Digite o nome do arquivo JSON [EXEMPLO dados.json]:
@@ -74,7 +82,11 @@ A resposta está disponível no FILE: percentual.py
 
 REPRESENTADO NO PRÓPRIO TERMINAL DO VSCODE:
 
-**PARA INICIAR O TERMINAL, DIGITE 'python percentual.py'**
+**PARA INICIAR O TERMINAL, DIGITE:**
+
+```bash
+python percentual.py
+```
 
 ```bash
 Percentual de representação por estado:
@@ -91,7 +103,11 @@ A resposta está disponível no FILE: caracteres.py
 
 REPRESENTADO NO PRÓPRIO TERMINAL DO VSCODE:
 
-**PARA INICIAR O TERMINAL, DIGITE 'python caracteres.py'**
+**PARA INICIAR O TERMINAL, DIGITE:**
+
+```bash
+ 'python caracteres.py'
+```
 
 ```bash
 Digite uma string para inverter [EXEMPLO: 'REBECA', '1234']:
