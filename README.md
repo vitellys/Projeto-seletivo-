@@ -38,6 +38,8 @@ REPRESENTADO NO PRÓPRIO TERMINAL DO VSCODE:
 python fibonacci.py
 ```
 
+resposta:
+
 ```bash
 Digite o número que deseja para verificar se pertence à sequência fibonacci:
 ```
@@ -61,6 +63,8 @@ REPRESENTADO NO PRÓPRIO TERMINAL DO VSCODE:
 ```bash
 python faturamento.py
 ```
+
+resposta:
 
 ```bash
 Digite o nome do arquivo JSON [EXEMPLO dados.json]:
@@ -88,6 +92,8 @@ REPRESENTADO NO PRÓPRIO TERMINAL DO VSCODE:
 python percentual.py
 ```
 
+resposta:
+
 ```bash
 Percentual de representação por estado:
 SP: 37.53%
@@ -109,9 +115,13 @@ REPRESENTADO NO PRÓPRIO TERMINAL DO VSCODE:
  'python caracteres.py'
 ```
 
+resposta:
+
 ```bash
 Digite uma string para inverter [EXEMPLO: 'REBECA', '1234']:
 ```
+
+resposta final:
 
 STRING FORNECIDA: ellen rebeca
 
